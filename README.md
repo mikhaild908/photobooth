@@ -1,1 +1,3 @@
 # photobooth
+
+![](photobooth-setup.jpg)
